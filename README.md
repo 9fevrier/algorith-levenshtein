@@ -7,9 +7,15 @@ A light Java implementation of the Levenstein algorithm.
 
 To do
 
+## How to build
+
+Use Maven 3.x to compile then to package this library :
+
+    mvn clean compile package
+
 ## Usage
 
-    import 
+    import nf.libs.algorithms.Levensthein;
     
     int distance = Levenshtein.distance("my first string", "my second string!");
     System.out.println(String.format("distance = %d", distance));
