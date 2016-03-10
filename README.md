@@ -1,2 +1,2 @@
-# algorithm-levenstein
-A light Java implementation of the Levenstein algorithm
+# algorithm-levenshtein
+A light Java implementation of the Levenshtein algorithm
