@@ -9,11 +9,15 @@ To do
 
 ## Usage
 
-To do
+    import 
+    
+    int distance = Levenshtein.distance("my first string", "my second string!");
+    System.out.println(String.format("distance = %d", distance));
 
 ## See
 
-To do
+* [Levenshtein Distance (fr)](https://fr.wikipedia.org/wiki/Distance_de_Levenshtein)
+* [Algorithm Implementation/Strings/Levenshtein distance](https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance)
 
 ## Change history
 
