@@ -12,7 +12,7 @@
 
     <!-- ## Parameters -->
     <properties>
-        <algorithm-levenshtein.version>0.1-SNAPSHOT</algorithm-levenshtein.version>
+        <algorithm-levenshtein.version>0.2-SNAPSHOT</algorithm-levenshtein.version>
         <junit.version>4.12</junit.version>
     </properties>
 
